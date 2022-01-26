@@ -55,9 +55,11 @@ button:disabled {
   height: 100%;
   width: 100%;
   margin: 1rem;
-  opacity: 0.8;
+  opacity: 0.85;
   border-radius: 5px;
   padding: 1rem;
+  font-weight: bold;
+  line-height: 1.5;
 }
 
 /* Media Queries */
